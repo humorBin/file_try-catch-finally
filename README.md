@@ -1,7 +1,7 @@
 # file_try-catch-finally
 Java读取文件写法
 
----
+```
 public class FinallyTest {
   public static void main(String[] args) {
     FileInputStream fis = null;
@@ -23,4 +23,4 @@ public class FinallyTest {
     }
   }
 }
----
+```
